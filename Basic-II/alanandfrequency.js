@@ -1,4 +1,4 @@
-Screenshot (1323).png
+
 
 function alanandfrequency(N,str){
     let obj={};
